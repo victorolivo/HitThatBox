@@ -1,0 +1,30 @@
+
+
+body {
+    background-image:url(images/backG.jpg);
+    
+}
+
+#box {
+    width: 100px;
+    height: 60px;
+    background-color: aqua;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 30px;
+    display: none;
+    position: relative;
+}
+
+#Tittle {
+    text-align: center;
+    font-weight: bold;
+}
+
+#ReactionT {
+    text-align: center;
+}
+
+#ft {
+    text-align: center;
+}
